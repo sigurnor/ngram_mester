@@ -1,17 +1,32 @@
+import re
 from collections import Counter
 from pathlib import Path
 from typing import Iterable, List, Tuple
 
 
+def _tokenize_line(line: str) -> List[str]:
+    """Splitter en tekstlinje i tokens med enkel, men robust tokenisering.
+
+    Vi bruker et regulært uttrykk for å hente ut ord og enkelttegn som tegnsetting
+    slik at komma, punktum og andre symboler ikke henger fast i ordet før eller
+    etter. Eksempel:
+
+    >>> _tokenize_line("I do not like this, but it is ok. Life goes on.")
+    ['I', 'do', 'not', 'like', 'this', ',', 'but', 'it', 'is', 'ok', '.', 'Life', 'goes', 'on', '.']
+    """
+
+    return re.findall(r"\w+|[^\w\s]", line)
+
+
 def read_tokens_from_file(path: str) -> List[str]:
-    """Leser en tekstfil og returnerer en liste med tokens (veldig enkel tokenisering)."""
+    """Leser en tekstfil og returnerer en liste med tokens med enkel tokenisering."""
     tokens: List[str] = []
     with open(path, "r", encoding="utf-8") as f:
         for line in f:
             line = line.strip()
             if not line:
                 continue
-            tokens.extend(line.split())
+            tokens.extend(_tokenize_line(line))
     return tokens
 
 
