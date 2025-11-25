@@ -59,7 +59,8 @@ def write_ngrams_up_to(tokens: List[str], max_n: int, output_base: str) -> List[
 
     ``output_base`` brukes som basisnavn for filene. For eksempel vil
     ``output_base="resultat.tsv"`` generere filer som ``resultat_n1.tsv``,
-    ``resultat_n2.tsv`` osv.
+    ``resultat_n2.tsv`` osv. For hver n-gram-fil opprettes det også en enkel
+    tekstfil med en oppmuntrende melding.
     """
 
     if max_n <= 0:
@@ -76,6 +77,11 @@ def write_ngrams_up_to(tokens: List[str], max_n: int, output_base: str) -> List[
         ngram_counts = count_ngrams(tokens, current_n)
         output_path = output_dir / f"{stem}_n{current_n}{suffix}"
         write_ngrams_to_tsv(ngram_counts, str(output_path))
+        completion_note_path = output_dir / f"{stem}_n{current_n}_finished.txt"
+        completion_note_path.write_text(
+            "That was another n-gram finished. You are doing great.\n",
+            encoding="utf-8",
+        )
         written_files.append(str(output_path))
 
     return written_files
