@@ -1,5 +1,6 @@
 from collections import Counter
-from typing import List, Iterable, Tuple
+from pathlib import Path
+from typing import Iterable, List, Tuple
 
 
 def read_tokens_from_file(path: str) -> List[str]:
@@ -19,7 +20,7 @@ def generate_ngrams(tokens: List[str], n: int) -> Iterable[Tuple[str, ...]]:
     if n <= 0:
         raise ValueError("n must be >= 1")
     for i in range(len(tokens) - n + 1):
-        yield tuple(tokens[i:i + n])
+        yield tuple(tokens[i : i + n])
 
 
 def count_ngrams(tokens: List[str], n: int) -> Counter:
@@ -36,3 +37,30 @@ def write_ngrams_to_tsv(counter: Counter, out_path: str) -> None:
         for ngram, count in counter.most_common():
             ngram_str = " ".join(ngram)
             f.write(f"{ngram_str}\t{count}\n")
+
+
+def write_ngrams_up_to(tokens: List[str], max_n: int, output_base: str) -> List[str]:
+    """Skriver n-gramfiler for alle verdier fra 1 til og med ``max_n``.
+
+    ``output_base`` brukes som basisnavn for filene. For eksempel vil
+    ``output_base="resultat.tsv"`` generere filer som ``resultat_n1.tsv``,
+    ``resultat_n2.tsv`` osv.
+    """
+
+    if max_n <= 0:
+        raise ValueError("max_n must be >= 1")
+
+    base_path = Path(output_base)
+    suffix = base_path.suffix or ".tsv"
+    stem = base_path.stem
+    output_dir = base_path.parent
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    written_files: List[str] = []
+    for current_n in range(1, max_n + 1):
+        ngram_counts = count_ngrams(tokens, current_n)
+        output_path = output_dir / f"{stem}_n{current_n}{suffix}"
+        write_ngrams_to_tsv(ngram_counts, str(output_path))
+        written_files.append(str(output_path))
+
+    return written_files
