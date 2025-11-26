@@ -16,9 +16,8 @@ Kommandoen over genererer tre filer i mappen `analyser/`:
 - `utfil_n2.tsv`
 - `utfil_n3.tsv`
 
-Hver fil inneholder n-gram og forekomster for respektive n-verdi. I tillegg
-opprettes en tilhørende tekstfil for hvert n-gram som bekrefter at den aktuelle
-n-gram-filen er ferdig: `utfil_n1_finished.txt`, `utfil_n2_finished.txt` osv.
+Hver fil inneholder n-gram og forekomster for respektive n-verdi. Hvert n-gram
+skrives med `|`-skille mellom tokens, eksempel: `the|day|before|.`.
 
 Oppgi et nytt basenavn via `--output` for å skrive til andre filstier; nødvendig
 mappestruktur opprettes automatisk.

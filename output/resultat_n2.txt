@@ -1,291 +1,292 @@
-the same	48
-and the	23
-with the	14
-the day	13
-in the	9
-the morning	4
-the quiet	4
-same slow	4
-same quiet	4
-day before.	3
-the familiar	3
-same calm	3
-the hours	3
-same steady	3
-and each	3
-day is	2
-is always	2
-always the	2
-same and	2
-same pattern	2
-before. the	2
-same light	2
-light and	2
-as they	2
-the time	2
-brings the	2
-same simple	2
-same predictable	2
-carries the	2
-pace. the	2
-arrives with	2
-of time.	2
-same unbroken	2
-same way	2
-the room	2
-room and	2
-again with	2
-structure and	2
-of the	2
-morning follows	1
-follows the	1
-pattern as	1
-as the	1
-quiet room	1
-room stands	1
-stands in	1
-familiar sound	1
-sound returns	1
-returns in	1
-slow rhythm.	1
-rhythm. the	1
-day moves	1
-moves forward	1
-forward in	1
-in a	1
-a steady	1
-steady line	1
-line and	1
-same thoughts	1
-thoughts appear	1
-appear in	1
-same order	1
-order as	1
-they did	1
-did the	1
-time passes	1
-passes in	1
-calm manner	1
-manner and	1
-morning brings	1
-same feeling	1
-feeling of	1
-of slow	1
-slow repetition.	1
-repetition. the	1
-the routine	1
-routine begins	1
-begins with	1
-simple steps	1
-steps and	1
-hours continue	1
-continue with	1
-predictable motion.	1
-motion. the	1
-day goes	1
-goes on	1
-on without	1
-without change	1
-change and	1
-quiet air	1
-air carries	1
-same soft	1
-soft tone	1
-tone that	1
-that it	1
-it carried	1
-carried yesterday	1
-yesterday and	1
-day before	1
-before that.	1
-that. every	1
-every action	1
-action seems	1
-seems to	1
-to follow	1
-follow the	1
-same path	1
-path and	1
-and every	1
-every moment	1
-moment reflects	1
-reflects the	1
-steady pace.	1
-morning arrives	1
-same pale	1
-pale light	1
-quiet movement	1
-movement through	1
-through the	1
-the room.	1
-room. the	1
-day stretches	1
-stretches out	1
-out with	1
-calm surface	1
-surface and	1
-slow turning	1
-turning of	1
-time. each	1
-each hour	1
-hour repeats	1
-repeats the	1
-pattern and	1
-each step	1
-step brings	1
-simple result.	1
-result. the	1
-quiet moment	1
-moment after	1
-after each	1
-each small	1
-small task	1
-task has	1
-has the	1
-same shape	1
-shape and	1
-unbroken stillness.	1
-stillness. the	1
-day ends	1
-ends the	1
-way it	1
-it began,	1
-began, with	1
-quiet sense	1
-sense of	1
-of repetition	1
-repetition and	1
-steady passing	1
-passing of	1
-time. the	1
-the next	1
-next morning	1
-morning begins	1
-begins in	1
-same manner	1
-manner with	1
-light entering	1
-entering the	1
-same sound	1
-sound settling	1
-settling in	1
-the air.	1
-air. the	1
-familiar rhythm	1
-rhythm returns	1
-returns again	1
-predictable structure	1
-slow pace.	1
-day continues	1
-continues with	1
-same sequence	1
-sequence of	1
-of small	1
-small actions	1
-actions and	1
-each action	1
-action feels	1
-feels like	1
-like a	1
-a precise	1
-precise copy	1
-copy of	1
-before. there	1
-there is	1
-is the	1
-calm tone	1
-tone in	1
-same repetition	1
-repetition in	1
-in every	1
-every movement.	1
-movement. the	1
-time flows	1
-flows in	1
-quiet stream	1
-stream and	1
-hours remain	1
-remain unchanged	1
-unchanged as	1
-they pass.	1
-pass. the	1
-the end	1
-end of	1
-day arrives	1
-quiet closure	1
-closure and	1
-same repeated	1
-repeated impression	1
-impression of	1
-of time	1
-time moving	1
-moving without	1
-without variation.	1
-variation. the	1
-the cycle	1
-cycle repeats	1
-repeats again	1
-same morning	1
-morning and	1
-same day	1
-day following	1
-following behind	1
-behind it.	1
-it. the	1
-quiet surroundings	1
-surroundings hold	1
-hold the	1
-same stillness	1
-stillness and	1
-unbroken calm.	1
-calm. the	1
-hours move	1
-move with	1
-slow certainty	1
-certainty and	1
-the tasks	1
-tasks unfold	1
-unfold with	1
-same structure	1
-same expected	1
-expected results.	1
-results. each	1
-each moment	1
-moment carries	1
-steady rhythm	1
-rhythm and	1
-each pause	1
-pause settles	1
-settles with	1
-same gentle	1
-gentle silence.	1
-silence. the	1
-the pattern	1
-pattern remains	1
-remains unchanged	1
-unchanged and	1
-day completes	1
-completes itself	1
-itself in	1
-way again	1
-again and	1
-and again.	1
-again. the	1
-the repetition	1
-repetition continues	1
-continues without	1
-without interruption	1
-interruption and	1
-familiar sequence	1
-sequence remains	1
-remains the	1
-same from	1
-from morning	1
-morning to	1
-to night.	1
-night. the	1
-morning always	1
-always returns	1
-returns with	1
-same unvaried	1
-unvaried light.	1
+the|same	48
+and|the	23
+.|the	20
+with|the	14
+the|day	13
+in|the	9
+the|morning	4
+day|before	4
+the|quiet	4
+same|slow	4
+same|quiet	4
+before|.	3
+the|familiar	3
+same|calm	3
+the|hours	3
+same|steady	3
+the|room	3
+of|time	3
+and|each	3
+day|is	2
+is|always	2
+always|the	2
+same|and	2
+same|pattern	2
+same|light	2
+light|and	2
+as|they	2
+the|time	2
+brings|the	2
+same|simple	2
+same|predictable	2
+carries|the	2
+pace|.	2
+arrives|with	2
+time|.	2
+.|each	2
+same|unbroken	2
+same|way	2
+room|and	2
+again|with	2
+structure|and	2
+of|the	2
+morning|follows	1
+follows|the	1
+pattern|as	1
+as|the	1
+quiet|room	1
+room|stands	1
+stands|in	1
+familiar|sound	1
+sound|returns	1
+returns|in	1
+slow|rhythm	1
+rhythm|.	1
+day|moves	1
+moves|forward	1
+forward|in	1
+in|a	1
+a|steady	1
+steady|line	1
+line|and	1
+same|thoughts	1
+thoughts|appear	1
+appear|in	1
+same|order	1
+order|as	1
+they|did	1
+did|the	1
+time|passes	1
+passes|in	1
+calm|manner	1
+manner|and	1
+morning|brings	1
+same|feeling	1
+feeling|of	1
+of|slow	1
+slow|repetition	1
+repetition|.	1
+the|routine	1
+routine|begins	1
+begins|with	1
+simple|steps	1
+steps|and	1
+hours|continue	1
+continue|with	1
+predictable|motion	1
+motion|.	1
+day|goes	1
+goes|on	1
+on|without	1
+without|change	1
+change|and	1
+quiet|air	1
+air|carries	1
+same|soft	1
+soft|tone	1
+tone|that	1
+that|it	1
+it|carried	1
+carried|yesterday	1
+yesterday|and	1
+before|that	1
+that|.	1
+.|every	1
+every|action	1
+action|seems	1
+seems|to	1
+to|follow	1
+follow|the	1
+same|path	1
+path|and	1
+and|every	1
+every|moment	1
+moment|reflects	1
+reflects|the	1
+steady|pace	1
+morning|arrives	1
+same|pale	1
+pale|light	1
+quiet|movement	1
+movement|through	1
+through|the	1
+room|.	1
+day|stretches	1
+stretches|out	1
+out|with	1
+calm|surface	1
+surface|and	1
+slow|turning	1
+turning|of	1
+each|hour	1
+hour|repeats	1
+repeats|the	1
+pattern|and	1
+each|step	1
+step|brings	1
+simple|result	1
+result|.	1
+quiet|moment	1
+moment|after	1
+after|each	1
+each|small	1
+small|task	1
+task|has	1
+has|the	1
+same|shape	1
+shape|and	1
+unbroken|stillness	1
+stillness|.	1
+day|ends	1
+ends|the	1
+way|it	1
+it|began	1
+began|,	1
+,|with	1
+quiet|sense	1
+sense|of	1
+of|repetition	1
+repetition|and	1
+steady|passing	1
+passing|of	1
+the|next	1
+next|morning	1
+morning|begins	1
+begins|in	1
+same|manner	1
+manner|with	1
+light|entering	1
+entering|the	1
+same|sound	1
+sound|settling	1
+settling|in	1
+the|air	1
+air|.	1
+familiar|rhythm	1
+rhythm|returns	1
+returns|again	1
+predictable|structure	1
+slow|pace	1
+day|continues	1
+continues|with	1
+same|sequence	1
+sequence|of	1
+of|small	1
+small|actions	1
+actions|and	1
+each|action	1
+action|feels	1
+feels|like	1
+like|a	1
+a|precise	1
+precise|copy	1
+copy|of	1
+.|there	1
+there|is	1
+is|the	1
+calm|tone	1
+tone|in	1
+same|repetition	1
+repetition|in	1
+in|every	1
+every|movement	1
+movement|.	1
+time|flows	1
+flows|in	1
+quiet|stream	1
+stream|and	1
+hours|remain	1
+remain|unchanged	1
+unchanged|as	1
+they|pass	1
+pass|.	1
+the|end	1
+end|of	1
+day|arrives	1
+quiet|closure	1
+closure|and	1
+same|repeated	1
+repeated|impression	1
+impression|of	1
+time|moving	1
+moving|without	1
+without|variation	1
+variation|.	1
+the|cycle	1
+cycle|repeats	1
+repeats|again	1
+same|morning	1
+morning|and	1
+same|day	1
+day|following	1
+following|behind	1
+behind|it	1
+it|.	1
+quiet|surroundings	1
+surroundings|hold	1
+hold|the	1
+same|stillness	1
+stillness|and	1
+unbroken|calm	1
+calm|.	1
+hours|move	1
+move|with	1
+slow|certainty	1
+certainty|and	1
+the|tasks	1
+tasks|unfold	1
+unfold|with	1
+same|structure	1
+same|expected	1
+expected|results	1
+results|.	1
+each|moment	1
+moment|carries	1
+steady|rhythm	1
+rhythm|and	1
+each|pause	1
+pause|settles	1
+settles|with	1
+same|gentle	1
+gentle|silence	1
+silence|.	1
+the|pattern	1
+pattern|remains	1
+remains|unchanged	1
+unchanged|and	1
+day|completes	1
+completes|itself	1
+itself|in	1
+way|again	1
+again|and	1
+and|again	1
+again|.	1
+the|repetition	1
+repetition|continues	1
+continues|without	1
+without|interruption	1
+interruption|and	1
+familiar|sequence	1
+sequence|remains	1
+remains|the	1
+same|from	1
+from|morning	1
+morning|to	1
+to|night	1
+night|.	1
+morning|always	1
+always|returns	1
+returns|with	1
+same|unvaried	1
+unvaried|light	1
+light|.	1
